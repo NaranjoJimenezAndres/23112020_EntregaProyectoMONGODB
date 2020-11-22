@@ -12,12 +12,16 @@ pandemia y los diversos estragos del COVID-19 de una manera más profunda en la 
 
 
 * **src**
+
     **aggregate.js**: _Contiene las consultas por el método de agregación_
+    
     **find**: _Contiene las consultas por el método find_
 
     **caracteristicas.js**: _Colección de datos de las caracteristicas de los pueblos del distrito sanitario Bahia de Cadiz - La Janda_
-    **CovidCadiz.js**: _Colección que contiene los datos sanitarios de las 4 Áreas sanitarias que coforman la provincia_
-    **PueblosBC-LJ.js**:_Colección que contiene la informacion de los efectos del Covid-19 en cada uno de los pueblos del distrito._
+   
+   **CovidCadiz.js**: _Colección que contiene los datos sanitarios de las 4 Áreas sanitarias que coforman la provincia_
+  
+  **PueblosBC-LJ.js**:_Colección que contiene la informacion de los efectos del Covid-19 en cada uno de los pueblos del distrito._
 
 ## Construido con 🛠️
 
